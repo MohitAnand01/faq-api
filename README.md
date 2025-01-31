@@ -70,7 +70,7 @@ Fetches all stored FAQs.
 Fetches FAQs in Hindi.
 
 **Request in Postman:**
-![GET FAQs Hindi](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/get_faqs_hi.png)
+![GET FAQs Hindi](screenshots/get_all_FAQ_hindi.png)
 
 ---
 
