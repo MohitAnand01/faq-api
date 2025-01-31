@@ -62,7 +62,7 @@ python manage.py runserver
 Fetches all stored FAQs.
 
 **Request in Postman:**
-![GET FAQs](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/get_faqs.png)
+![GET FAQs](screenshots/get_all_FAQ.png)
 
 ---
 
