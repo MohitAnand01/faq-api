@@ -1,0 +1,106 @@
+# 📝 FAQ API - Django REST Framework
+
+This is a **Django-based FAQ API** that supports **multilingual translations, WYSIWYG editor, Redis caching**, and a fully functional **REST API**.
+
+## 🚀 Features
+- ✅ **Django REST API** to manage FAQs
+- 🌍 **Multilingual support** using Google Translate
+- ✍ **WYSIWYG Editor** (CKEditor 5) for FAQ answers
+- ⚡ **Caching with Redis** for improved performance
+- 📝 **Unit tests** for API and models
+
+---
+
+## 🛠 Installation Guide
+
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/YOUR_GITHUB_USERNAME/faq-api.git
+cd faq-api
+```
+
+### **2️⃣ Create and Activate a Virtual Environment**
+```sh
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+venv\Scripts\activate  # Windows
+```
+
+### **3️⃣ Install Dependencies**
+```sh
+pip install -r requirements.txt
+```
+
+### **4️⃣ Apply Migrations & Start Server**
+```sh
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
+### **5️⃣ Access the API**
+- API Home: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+- Fetch FAQs: [http://127.0.0.1:8000/api/faqs/](http://127.0.0.1:8000/api/faqs/)
+- Fetch FAQs in Hindi: [http://127.0.0.1:8000/api/faqs/?lang=hi](http://127.0.0.1:8000/api/faqs/?lang=hi)
+
+---
+
+## 🔗 API Endpoints
+
+| Method | Endpoint              | Description                |
+|--------|----------------------|----------------------------|
+| GET    | `/api/faqs/`         | Get all FAQs               |
+| GET    | `/api/faqs/?lang=hi` | Get FAQs in Hindi          |
+| POST   | `/api/faqs/`         | Create a new FAQ           |
+| PUT    | `/api/faqs/{id}/`    | Update an FAQ              |
+| DELETE | `/api/faqs/{id}/`    | Delete an FAQ              |
+
+📌 **Example API Call Using Curl:**
+```sh
+curl http://127.0.0.1:8000/api/faqs/?lang=hi
+```
+
+---
+
+
+---
+
+## ✅ Running Unit Tests
+Run the following command to execute **all unit tests**:
+```sh
+python manage.py test
+```
+
+---
+
+## 🔧 Technologies Used
+- **Backend:** Django, Django REST Framework
+- **Database:** SQLite (Default), PostgreSQL (Optional)
+- **Caching:** Redis
+- **Editor:** CKEditor 5
+- **Translation API:** Google Translate
+
+---
+
+## 📌 Contribution Guidelines
+1. **Fork the repository**
+2. **Create a feature branch**
+3. **Make your changes & commit**
+4. **Push your branch and create a Pull Request**
+
+---
+
+## 🔗 Author & Contact
+Developed by **Your Name**  
+📧 Email: `your.email@example.com`  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+🔗 GitHub: [Your GitHub Profile](https://github.com/yourgithub)
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
+
+
