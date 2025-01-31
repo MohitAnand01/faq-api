@@ -93,8 +93,8 @@ python manage.py test
 ## 🔗 Author & Contact
 Developed by Mohit Anand  
 📧 Email: `anand2003mohit@gmail.com`  
-🔗 LinkedIn: https://www.linkedin.com/in/mohit-anand-a4b07033a/ 
-🔗 GitHub: https://github.com/MohitAnand01
+🔗 LinkedIn: "https://www.linkedin.com/in/mohit-anand-a4b07033a/"
+🔗 GitHub: "https://github.com/MohitAnand01"
 
 ---
 
