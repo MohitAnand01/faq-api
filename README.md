@@ -55,15 +55,61 @@ python manage.py runserver
 | PUT    | `/api/faqs/{id}/`    | Update an FAQ              |
 | DELETE | `/api/faqs/{id}/`    | Delete an FAQ              |
 
+
+## 📌 API Endpoints and Screenshots
+
+### 🟢 GET `/api/faqs/` (Fetch All FAQs)
+Fetches all stored FAQs.
+
+**Request in Postman:**
+![GET FAQs](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/get_faqs.png)
+
+---
+
+### 🟢 GET `/api/faqs/?lang=hi` (Fetch FAQs in Hindi)
+Fetches FAQs in Hindi.
+
+**Request in Postman:**
+![GET FAQs Hindi](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/get_faqs_hi.png)
+
+---
+
+### 🟢 POST `/api/faqs/` (Create a New FAQ)
+Creates a new FAQ.
+
+**Request in Postman:**
+![POST FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/post_faq.png)
+
+---
+
+### 🟢 PUT `/api/faqs/1/` (Update an Existing FAQ)
+Updates an existing FAQ.
+
+**Request in Postman:**
+![PUT FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/put_faq.png)
+
+---
+
+### 🟢 DELETE `/api/faqs/1/` (Delete an FAQ)
+Deletes an FAQ.
+
+**Request in Postman:**
+![DELETE FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/delete_faq.png)
+
+---
+
+
+
+
+
+
+
 📌 **Example API Call Using Curl:**
 ```sh
 curl http://127.0.0.1:8000/api/faqs/?lang=hi
 ```
 
----
 
-
----
 
 ## ✅ Running Unit Tests
 Run the following command to execute **all unit tests**:
