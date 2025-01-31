@@ -39,7 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',  # Django REST framework
     'ckeditor',        # WYSIWYG editor
-    'faqs',            # FAQ app
+    'faqs', 
+    'django_extensions',# FAQ app
 ]
 
 
