@@ -15,7 +15,7 @@ This is a **Django-based FAQ API** that supports **multilingual translations, WY
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/faq-api.git
+git clone https://github.com/MohitAnand01/faq-api.git
 cd faq-api
 ```
 
@@ -91,10 +91,10 @@ python manage.py test
 ---
 
 ## 🔗 Author & Contact
-Developed by **Your Name**  
-📧 Email: `your.email@example.com`  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourgithub)
+Developed by Mohit Anand  
+📧 Email: `anand2003mohit@gmail.com`  
+🔗 LinkedIn: https://www.linkedin.com/in/mohit-anand-a4b07033a/ 
+🔗 GitHub: https://github.com/MohitAnand01
 
 ---
 
