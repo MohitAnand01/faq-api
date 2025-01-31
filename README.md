@@ -78,7 +78,7 @@ Fetches FAQs in Hindi.
 Creates a new FAQ.
 
 **Request in Postman:**
-![POST FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/post_faq.png)
+![POST FAQ](screenshots/post_call_FAQ.png)
 
 ---
 
