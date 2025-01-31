@@ -86,7 +86,7 @@ Creates a new FAQ.
 Updates an existing FAQ.
 
 **Request in Postman:**
-![PUT FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/put_faq.png)
+![PUT FAQ](screenshots/put_req_FAQ.png)
 
 ---
 
