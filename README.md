@@ -94,7 +94,7 @@ Updates an existing FAQ.
 Deletes an FAQ.
 
 **Request in Postman:**
-![DELETE FAQ](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/screenshots/delete_faq.png)
+![DELETE FAQ](screenshots/delete_FAQ.png)
 
 ---
 
