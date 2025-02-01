@@ -55,6 +55,22 @@ python manage.py runserver
 | PUT    | `/api/faqs/{id}/`    | Update an FAQ              |
 | DELETE | `/api/faqs/{id}/`    | Delete an FAQ              |
 
+# 📌 FAQ API - Postman Collection
+
+This is a REST API for managing FAQs, supporting multilingual responses.
+
+---
+
+## 📌 Postman Collection
+To test the API in **Postman**, download and import the collection:
+
+📥 **[Download Postman Collection](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/raw/main/postman_collection.json)**
+
+---
+
+
+
+
 
 ## 📌 API Endpoints and Screenshots
 
