@@ -82,7 +82,7 @@ Creates a new FAQ.
 
 ---
 
-### 🟢 PUT `/api/faqs/1/` (Update an Existing FAQ)
+### 🟢 PUT `/api/faqs/5/` (Update an Existing FAQ)
 Updates an existing FAQ.
 
 **Request in Postman:**
@@ -90,7 +90,7 @@ Updates an existing FAQ.
 
 ---
 
-### 🟢 DELETE `/api/faqs/1/` (Delete an FAQ)
+### 🟢 DELETE `/api/faqs/5/` (Delete an FAQ)
 Deletes an FAQ.
 
 **Request in Postman:**
