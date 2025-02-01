@@ -62,17 +62,17 @@ To test the API in **Postman**, download and import the collection:
 
 📥 **[Download Postman Collection](FAQ_API.postman_collection.json)**
 
-How to Import the Collection in Postman
+## How to Import the Collection in Postman
 
-Open Postman.
+- Open Postman.
 
-Click "Import".
+- Click "Import".
 
-Select the downloaded file postman_collection.json.
+- Select the downloaded file postman_collection.json.
 
-Click "Import" to load all API endpoints.
+- Click "Import" to load all API endpoints.
 
-Test the API!
+- Test the API!
 
 ---
 
