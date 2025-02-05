@@ -76,7 +76,6 @@ To test the API in **Postman**, download and import the collection:
 
 ---
 
-
 ## 📌 API Endpoints and Screenshots
 
 ### 🟢 GET `/api/faqs/` (Fetch All FAQs)
@@ -118,12 +117,6 @@ Deletes an FAQ.
 ![DELETE FAQ](screenshots/delete_FAQ.png)
 
 ---
-
-
-
-
-
-
 
 📌 **Example API Call Using Curl:**
 ```sh
