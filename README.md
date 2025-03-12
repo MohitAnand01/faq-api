@@ -1,4 +1,4 @@
-# 📝 FAQ API - Django REST Framework
+# 📝 FAQ API - Django REST Frameworks
 
 This is a **Django-based FAQ API** that supports **multilingual translations, WYSIWYG editor, Redis caching**, and a fully functional **REST API**.
 
